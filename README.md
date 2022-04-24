@@ -1,5 +1,5 @@
 # Roteiros Práticos - Banco de Dados I
- Este repositório contém os roteiros práticos da disciplina de Banco de Dados I
+ Este repositório contém os roteiros práticos da disciplina de Banco de Dados I. A disciplina foi concluída no primeiro semestre de 2022.
 
 Documentos com descrição de roteiro:
 - [Roteiro 1](https://docs.google.com/document/d/15mOYxMMb51m12sIaYCTFFceRT2ARPh8-O-JOf6Q5-kE/edit)
